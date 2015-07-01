@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="KSJavaAPI/KSJavaAPI.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/KSJavaAPI/KSJavaAPI_BIN_Jar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=KSJavaAPI/src&lt;org.keysupport.tests{PIVReadTest.java[PIVReadTest" manifestLocation="/KSJavaAPI/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/KSJavaAPI/MANIFEST.MF"/>
+        <javaElement handleIdentifier="=KSJavaAPI/src"/>
+    </selectedElements>
+</jardesc>
