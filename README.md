@@ -35,5 +35,8 @@ The cryptography performed by this API (I.e., GENERAL/EXTERNAL AUTHENTICATE, sig
 
 This API is NOT on any "approved product list", such as the GSA APL. Since it is a free open source implementation, the intent is not for it to be a product, but an educational API. Putting this API through such validation testing would potentially yield substantial costs, for which it has no revenue backing.
 
+## License
+GNU GPL v3: http://www.gnu.org/licenses/gpl.html
+
 ## Other References
 Migration of code from Google Code:  https://code.google.com/p/keysupport-java-api/
