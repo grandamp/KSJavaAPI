@@ -66,7 +66,7 @@ public interface PIVAPDUInterface {
 	public static final byte[] SELECT_PIV = { GP_COMMAND, GP_SELECT,
 			(byte) 0x04, (byte) 0x00, (byte) 0x0b, (byte) 0xa0, (byte) 0x00,
 			(byte) 0x00, (byte) 0x03, (byte) 0x08, (byte) 0x00, (byte) 0x00,
-			(byte) 0x10, (byte) 0x00, (byte) 0x01, (byte) 0x00 };
+			(byte) 0x10, (byte) 0x00, (byte) 0x01, (byte) 0x00, (byte) 0x00 };
 	/**
 	 * Field PIV_GET_DATA_HEADER.
 	 */
